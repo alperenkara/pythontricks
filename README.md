@@ -1,0 +1,2 @@
+# pythontricks
+ Python Tricks Series
